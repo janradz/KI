@@ -1,0 +1,4 @@
+# Optional Fashion-MNIST experiments.
+-r requirements.txt
+torch
+torchvision

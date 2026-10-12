@@ -1,0 +1,4 @@
+# Core game and symbolic-logic examples; versions are not yet locked.
+numpy
+termcolor
+nltk

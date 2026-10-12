@@ -1,0 +1,19 @@
+S . D # . . # . # #
+# . . D # # . # . #
+. . . D H . . # . .
+. . H . D H . H D .
+. # # D # # # # # H
+# . # H . . . . . H
+. . . . H # # . . D
+. # . . D # # . . H
+# . # . H # # . # .
+# . . . . H D . . E
+
+Legend:
+Dimensions: 10 x 10
+S - Start
+E - End
+# - Obstacle
+D - Dark Gray Special Cell
+H - Light Gray Special Cell
+. - Free Path
